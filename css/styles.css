@@ -68,7 +68,7 @@ background-color: #fff;
 .title-image{
     position: absolute;
     transform: rotate(25deg);
-    right: 30%;
+    right: 22%;
 width:22%;
 }
 /* features section */
@@ -177,7 +177,7 @@ margin: 20px 20px 50px;
 
 
 
-@media (max-width:1028px){
+@media (max-width:1000px){
   #title{
     text-align: center;
   }
